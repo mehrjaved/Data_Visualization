@@ -1,6 +1,6 @@
-## mjaved_Data_Visualization
+# mjaved_Data_Visualization
 This is my repository for the course titled "Telling Stories with Data" at Carnegie Mellon University 
-Accessible at this website: https://mehrjaved.github.io/Data_Visualization/
+Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualization/
 
 # About Me
 
