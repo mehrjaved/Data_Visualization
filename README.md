@@ -16,3 +16,7 @@ By taking this course, I hope to fulfil two goals:
 # My Porfolio
 
 Here's where all my visualizations will go!
+
+## USDA blog post visualization 
+
+<iframe id="datawrapper-chart-nCs1H" src="//datawrapper.dwcdn.net/nCs1H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="183"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["nCs1H"]={},window.datawrapper["nCs1H"].iframe=document.getElementById("datawrapper-chart-nCs1H"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("nCs1H"==b)window.datawrapper["nCs1H"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
