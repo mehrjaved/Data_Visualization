@@ -29,3 +29,10 @@ The chart below describes the survival rate for the passengers on the Titanic, b
   
 Created using "RAWGraphs", by RAWGraphs Team. Licensed under CC BY-NC-SA 4.0. Accessed: Nov 16, 2018, from https://rawgraphs.io/  
 
+# Assignment 2 
+  
+## Part 1
+
+General Government Debt from the OECD website
+
+<iframe src="https://data.oecd.org/chart/5sql" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5sql" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
