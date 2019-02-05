@@ -77,3 +77,5 @@ The third visualization was also created using the RAW Graphs online data visual
 
 The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: 
 
+![Original Chart Design](/Original_Design.png)
+
