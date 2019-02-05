@@ -6,7 +6,7 @@ Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualizatio
 [2. What I Hope to Learn](#what-i-hope-to-learn)
 [3. Assignment 1: My Portfolio](#my-portfolio)
 [4. Assignment 2](#assignment-2)
-[5. Assignments 3 and 4](#assignments-3-and-4)
+[5. Assignment 3 and 4](#assignment-3-and-4)
 
 # About Me
 
