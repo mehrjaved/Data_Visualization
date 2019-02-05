@@ -131,7 +131,7 @@ I used the feedback I recieved to start building a possible design solution. I u
 ## Part 3: The Final Visualization
 
 The redesigned version of this chart differs from the original along a few aspects. These are described below: 
-* It separates one category of the data, and builds a narrative around that instead of clumping together multiple categories. While this prevents easy comparisons across categories, this helps keep this chart easy to parse, allowing viewers to glean key insights within the first few seconds of observations. 
+* It separates one category of the data, and builds a narrative around that, instead of clumping together multiple categories. While this prevents easy comparisons across categories, it helps keep this chart easy to parse, allowing viewers to glean key insights within the first few seconds of observations. 
 * It includes data labels, and orders data points, so it is immediately apparent which household types are most and least likely to be affected by food insecurity.
 * It includes a separated and highlighted data point for the national average as a point of comparision. Having the chart ordered also allows viewers to immediately see which household types have rates of insecurity that are higher than the national average. 
 * It includes an explanatory sub-heading to emphasize the key take-away of the chart, and provide more context to the data. 
@@ -140,7 +140,7 @@ Based on my own interaction with the original chart, and the feedback I recieved
 
 <iframe id="datawrapper-chart-rl5wP" src="//datawrapper.dwcdn.net/rl5wP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="487"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
 
-In addition, while I did not solicit feedback for other categories of the original chart, I was able to use similar design principles to build charts for a few of the other categories. These are included below. The only difference in these charts, is that I add a gridline for the national average instead of having it embedded in the data. 
+In addition, while I did not solicit feedback for other categories of the original chart, I was able to use similar design principles to build charts for a few of the other categories. The only difference in these charts, is that I add a gridline for the national average instead of having it embedded within the data. 
 
 <iframe id="datawrapper-chart-x4MVM" src="//datawrapper.dwcdn.net/x4MVM/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="262"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
 
