@@ -71,3 +71,9 @@ The second visualization was created using the RAW Graphs online data visualizat
 
 The third visualization was also created using the RAW Graphs online data visualization tool. This chart is an Area Graph and has several of the same advantages that the Bee Swarm Plot in part 2 had. The thickness of each line corresponds to the size of the debt as a percentage of GDP for each country. This allows us to see how debt has grown or decreased over the years, and also allows to make comparisons across countries for a particular year. While it is still impossible to see the value of the actual percentage associated with each thickness, it is a little easier to observe changes in the thickness of lines than the size of circles. Hence, this chart makes it easier to note that Ireland's Debt to GDP ratio grows larger between 2010 and 2014, before tapering off. Finally, this chart is sorted from smallest to largest, and also takes on a green to red colour scale to make this apparent. The lines in green depict the countries with smallest debt to GDP ratios, whereas the lines in red depict the countries with highest debt to GDP ratios.
 
+# Assignment 3 and 4
+
+## Part 1
+
+The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: 
+
