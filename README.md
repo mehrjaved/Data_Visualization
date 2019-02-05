@@ -2,6 +2,8 @@
 This is my repository for the course titled "Telling Stories with Data" at Carnegie Mellon University.  
 Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualization/
 
+[1. About Me](#about-me)
+
 # About Me
 
 Hi! My name is Mehr Javed. I'm a second year Master's in Public Policy and Management student from Lahore, Pakistan. Before coming to Carnegie Mellon, I graduated with a degree in Economics and Politics. My primary research interests lie in policy analysis and program evaluation. I came to Carnegie Mellon with the intent of expanding my understanding in two domains: (1) Human behaviour and what motivates individuals to make the decisions they do and (2) How quantitative tools and analysis can be used to design and improve policy design and implementation.  
