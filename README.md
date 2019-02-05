@@ -3,6 +3,10 @@ This is my repository for the course titled "Telling Stories with Data" at Carne
 Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualization/
 
 [1. About Me](#about-me)
+[2. What I Hope to Learn](#what-i-hope-to-learn)
+[3. Assignment 1: My Portfolio](#my-portfolio)
+[4. Assignment 2](#assignment-2)
+[5. Assignments 3 and 4](#assignments-3-and-4)
 
 # About Me
 
@@ -89,11 +93,11 @@ My redesign process occured in the following steps:
 1. Sharing the wireframe with potential audience members and incorporating feedback
 1. Developing the final visualization  
 
-**Step 1:  
+**Step 1:**  
 
 While I liked the colour palette and clear labels of the original the graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Additionally, I wanted to provide data labels next to each category data point.  Finally, I wanted to contextualize the data labels by providing the national average for household food insecurity as a point of comparision. 
 
-**Step 2:  
+**Step 2:**  
 
 The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart I include below. Once I had edited the caption, the wireframe was ready to share. 
 
