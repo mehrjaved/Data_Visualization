@@ -101,11 +101,11 @@ My redesign process occured in the following steps:
 
 **Step 1:**  
 
-While I liked the colour palette and clear labels of the original the graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Additionally, I wanted to provide data labels next to each category data point.  Finally, I wanted to contextualize the data labels by providing the national average for household food insecurity as a point of comparision. 
+While I liked the colour palette and clear labels of the original the graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Finally, I wanted to provide data labels next to each data point and to contextualize these labels by providing the national average for household food insecurity as a point of comparision. 
 
 **Step 2:**  
 
-The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart I include below. Once I had edited the caption, the wireframe was ready to share. 
+The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart below. Once I had edited the caption, the wireframe was ready to share. 
 
 ![The Wireframe](/Wireframe.png)
 
@@ -126,7 +126,7 @@ I shared my wireframe with two potential audience members and recieved some very
 
 **Step 4:**
 
-I used the feedback I recieved to start building a possible design solution. I decided to use Datawrapper as a tool to build the final visualization because I like the flexibility it offers with annotations. Once I had built the first version of the new design, I shared it with the people who had been providing me with feedback to ask if I had addressed their concerns. After a few more tweaks, I was able to develop the final visualization included in the next section. 
+I used the feedback I recieved to start building a possible design solution. I used Datawrapper as a tool to build the final visualization because I like the flexibility it offers with design options and annotations. Once I had built the first version of the new design, I shared it with the people who had been providing me with feedback to ask if I had addressed their concerns. After a few more tweaks, I was able to develop the final visualization included in the next section. 
 
 ## Part 3: The Final Visualization
 
