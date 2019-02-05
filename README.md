@@ -73,9 +73,19 @@ The third visualization was also created using the RAW Graphs online data visual
 
 # Assignment 3 and 4
 
-## Part 1
+## Part 1: The Original Chart
 
 The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: 
 
 ![Original Chart Design](/Original_Design.png)
+
+## Part 2: The Redesign Process
+
+My redesign process occured in the following steps: 
+1. Thinking about what I liked and disliked about the original chart, and what I would like to change in the redesigned version
+1. Building a quick wireframe in Microsoft Excel
+1. Sharing the wireframe with potential audience members and incorporating feedback
+1. Developing the final visualization
+
+
 
