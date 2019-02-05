@@ -25,7 +25,7 @@ By taking this course, I hope to fulfil two goals:
 + Understanding the key elements of a good visualization
 + Becoming proficient at creating clear and purposeful visual charts that are appropriate for the data, context, and intended audience.
 
-# My Porfolio
+# My Portfolio
 
 Here's where all my visualizations will go!
 
@@ -89,9 +89,7 @@ The third visualization was also created using the RAW Graphs online data visual
 
 The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: I chose this chart for a variety of reasons. Firstly, the data was publicly available and easily accesible. Secondly, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
 
-<center>
 ![Original Chart Design](/Original_Design.png)
-</center>
 
 ## Part 2: The Redesign Process
 
@@ -109,9 +107,8 @@ While I liked the colour palette and clear labels of the original the graph, I t
 
 The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart I include below. Once I had edited the caption, the wireframe was ready to share. 
 
-<center>
 ![The Wireframe](/Wireframe.png)
-</center>
+
 
 **Step 3:**  
 
@@ -132,6 +129,12 @@ I shared my wireframe with two potential audience members and recieved some very
 I used the feedback I recieved to start building a possible design solution. I decided to use Datawrapper as a tool to build the final visualization because I like the flexibility it offers with annotations. Once I had built the first version of the new design, I shared it with the people who had been providing me with feedback to ask if I had addressed their concerns. After a few more tweaks, I was able to develop the final visualization included in the next section. 
 
 ## Part 3: The Final Visualization
+
+The redesigned version of this chart differs from the original along a few aspects. These are described below: 
+* It separates one category of the data, and builds a narrative around that instead of clumping together multiple categories. This helps keep this chart easy to parse, allowing viewers to glean key insights within the first few seconds of observations. 
+* It orders data points, so it is immediately apparent which household types are most and least likely to be affected by food insecurity.
+* It includes a separated and highlighted data point for the national average as a point of comparision. Having the chart ordered also allows viewers to immediately see which household types have rates of insecurity that are higher than the national average. 
+* It includes an explanatory sub-heading to emphasize the key take-away of the chart, and provide more context to the data. 
 
 <iframe id="datawrapper-chart-rl5wP" src="//datawrapper.dwcdn.net/rl5wP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="487"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
