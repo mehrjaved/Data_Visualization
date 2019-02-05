@@ -90,9 +90,7 @@ The third visualization was also created using the RAW Graphs online data visual
 The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: I chose this chart for a variety of reasons. Firstly, the data was publicly available and easily accesible. Secondly, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
 
 <center>
-  
 ![Original Chart Design](/Original_Design.png)
-
 </center>
 
 ## Part 2: The Redesign Process
@@ -112,9 +110,7 @@ While I liked the colour palette and clear labels of the original the graph, I t
 The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart I include below. Once I had edited the caption, the wireframe was ready to share. 
 
 <center>
-  
 ![The Wireframe](/Wireframe.png)
-
 </center>
 
 **Step 3:**  
