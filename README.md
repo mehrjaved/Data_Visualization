@@ -75,7 +75,7 @@ The third visualization was also created using the RAW Graphs online data visual
 
 ## Part 1: The Original Chart
 
-The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: 
+The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: I chose this chart for a variety of reasons. Firstly, the data was publicly available and easily accesible. Secondly, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
 
 ![Original Chart Design](/Original_Design.png)
 
@@ -85,7 +85,20 @@ My redesign process occured in the following steps:
 1. Thinking about what I liked and disliked about the original chart, and what I would like to change in the redesigned version
 1. Building a quick wireframe in Microsoft Excel
 1. Sharing the wireframe with potential audience members and incorporating feedback
-1. Developing the final visualization
+1. Developing the final visualization  
+
+**Step 1:  
+
+While I liked the colour palette and clear labels of the original the graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Additionally, I wanted to provide data labels next to each category data point.  Finally, I wanted to contextualize the data labels by providing the national average for household food insecurity as a point of comparision. 
+
+**Step 2:  
+
+The way the data was organized lent itself very easily to build a quick wireframe in Excel. I added another data point for the national average, and sorted the data from largest to smallest. Then, I simply used Microsoft Excel's "Recommended Charts" option to build the chart I include below. Once I had edited the caption, the wireframe was ready to share. 
+
+![The Wireframe](/Wireframe.png)
+
+
+## Part 3: The Final Visualization
 
 
 
