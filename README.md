@@ -1,12 +1,18 @@
   
 This is my repository for the course titled "Telling Stories with Data" at Carnegie Mellon University.  
-Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualization/
+Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualization/  
 
-[1. About Me](#about-me)
-[2. What I Hope to Learn](#what-i-hope-to-learn)
-[3. Assignment 1: My Portfolio](#my-portfolio)
-[4. Assignment 2](#assignment-2)
-[5. Assignment 3 and 4](#assignment-3-and-4)
+# Contents  
+
+[1. About Me](#about-me)  
+
+[2. What I Hope to Learn](#what-i-hope-to-learn)  
+
+[3. Assignment 1: My Portfolio](#my-portfolio)  
+
+[4. Assignment 2](#assignment-2)  
+
+[5. Assignment 3 and 4](#assignment-3-and-4)  
 
 # About Me
 
