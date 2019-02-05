@@ -127,9 +127,17 @@ I shared my wireframe with two potential audience members and recieved some very
 
 > "I can tell that food insecurity is most prevalent in homes with single mothers, and least for elders living alone"  
 
-> "Would a red colour scheme be more suitable for something like food insecurity?"
+> "Would a red colour scheme be more suitable for something like food insecurity?"  
+
+> "What are other households with child1?"  
+
+**Step 4:**
+
+I used the feedback I recieved to start building a possible design solution. I decided to use Datawrapper as a tool to build the final visualization because I like the flexibility it offers with annotations. Once I had built the first version of the new design, I shared it with the people who had been providing me with feedback to ask if I had addressed their concerns. After a few more tweaks, I was able to develop the final visualization included in the next section. 
 
 ## Part 3: The Final Visualization
+
+<iframe id="datawrapper-chart-rl5wP" src="//datawrapper.dwcdn.net/rl5wP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="487"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
 
 
