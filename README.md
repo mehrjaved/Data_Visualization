@@ -150,7 +150,7 @@ In addition, while I did not solicit feedback for other categories of the origin
 
 # Final Project Part 1
 
-![Final Project Part 1](mjaved_Data_Visualization/Final_Project_MehrJaved.md)
+[Final Project Part 1](mjaved_Data_Visualization/Final_Project_MehrJaved.md)
 
 
 
