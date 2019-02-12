@@ -14,6 +14,8 @@ Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualizatio
 
 [5. Assignment 3 and 4](#assignment-3-and-4)  
 
+[6. Final Project Part 1](#final-project-part-1)
+
 # About Me
 
 Hi! My name is Mehr Javed. I'm a second year Master's in Public Policy and Management student from Lahore, Pakistan. Before coming to Carnegie Mellon, I graduated with a degree in Economics and Politics. My primary research interests lie in policy analysis and program evaluation. I came to Carnegie Mellon with the intent of expanding my understanding in two domains: (1) Human behaviour and what motivates individuals to make the decisions they do and (2) How quantitative tools and analysis can be used to design and improve policy design and implementation.  
@@ -144,7 +146,9 @@ In addition, while I did not solicit feedback for other categories of the origin
 
 <iframe id="datawrapper-chart-x4MVM" src="//datawrapper.dwcdn.net/x4MVM/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="262"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
 
-<iframe id="datawrapper-chart-6kApJ" src="//datawrapper.dwcdn.net/6kApJ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="243"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+<iframe id="datawrapper-chart-6kApJ" src="//datawrapper.dwcdn.net/6kApJ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="243"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
+
+# Final Project Part 1
 
 ![Final Project Part 1](Final_Project_MehrJaved.md)
 
