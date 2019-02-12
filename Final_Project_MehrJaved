@@ -15,6 +15,16 @@ The reported cases of Sexually Transmitted Diseases (STDs) in the US reached an 
 
 The primary source of data for this project will be the Centers for Disease Control and Prevention's 2017 report on Sexually Transmitted Disease Surveillance. It is publically accessible at this link: https://www.cdc.gov/std/stats17/2017-STD-Surveillance-Report_CDC-clearance-9.10.18.pdf   
 
-Tables from this report will be scraped using Tabula to extract data in a csv format. Then, this data will be used to plot trends in STD growth over the years, and determine which STDs are most prevalent. Additional data sources may be explored if necessary. 
+This data will be used to plot trends in STD growth over the years. Additional data sources may be explored if necessary. 
 
-### Method  
+### Method and Medium
+
+Since the report above is in pdf format, relavent tables from this report will be scraped using Tabula to extract data in a csv format. These tables are available in the report from page 68 onwards.  
+
+Once the data has been scraped, the data will be cleaned to plot the following: 
++ Time series graphs of STD growth of the years 
++ Populations most at risk of STDS, by age, sex, and ethnicity
++ States with the highest STDs prevalence rate  
+
+Text accompanying these charts will be gathered from online news articles and the CDC report. The final data story will be created in Shorthand. 
+
