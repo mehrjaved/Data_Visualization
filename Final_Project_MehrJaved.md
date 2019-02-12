@@ -1,4 +1,4 @@
-## Project Outline 
+## Final Project Part 1: Project Outline 
 
 ### Project Summary: 
 The reported cases of Sexually Transmitted Diseases (STDs) in the US reached an all time high in 2017. This project will depict the growth of STD prevalence graphically, before providing preventative measures individuals can engage in to tackle this growth. 
