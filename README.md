@@ -89,7 +89,7 @@ The third visualization was also created using the RAW Graphs online data visual
 
 ## Part 1: The Original Chart
 
-The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below. I chose this chart for two reasons. First, the data was publicly available and easily accesible. Second, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
+The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below. I chose this chart for two reasons. First, the data was publicly available and easily accessible. Second, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
 
 ![Original Chart Design](/Original_Design.png)
 
