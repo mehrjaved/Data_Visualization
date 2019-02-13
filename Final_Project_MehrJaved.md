@@ -19,7 +19,7 @@ This data will be used to plot trends in STD growth over the years. Additional d
 
 ### Method and Medium
 
-Since the report above is in pdf format, relavent tables from this report will be scraped using Tabula to extract data in a csv format. These tables are available in the report from page 68 onwards.  
+Since the report above is in pdf format, relavent tables from this report will be scraped using Tabula to extract data in a csv format. These tables are available in the report page 68 onwards.  
 
 Once the data has been scraped, the data will be cleaned to plot the following: 
 + Time series graphs of STD growth of the years 
