@@ -5,7 +5,7 @@ The reported cases of Sexually Transmitted Diseases (STDs) in the US reached an 
 
 #### Story Arc: 
 
-1. Section 1: Describing rising STD rates of STD prevalence in the United States 
+1. Section 1: Describing the rising rates of STD prevalence in the United States 
 2. Section 2: Background explaining what STDs are, and why they are a concern
 3. Section 3: Exploring potential reasons for this rise in STD prevalence 
 4. Section 4: Existing policies to combat growth in STD prevalence 
