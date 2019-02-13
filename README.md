@@ -89,7 +89,7 @@ The third visualization was also created using the RAW Graphs online data visual
 
 ## Part 1: The Original Chart
 
-The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below: I chose this chart for a variety of reasons. Firstly, the data was publicly available and easily accesible. Secondly, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
+The chart I chose to redesign is the "Food Insecurity by Household Characteristics" chart included below. I chose this chart for two reasons. First, the data was publicly available and easily accesible. Second, I have some experience working in food policy, so this was not only a topic of interest, but also an opportunity for me to use my understanding of the potential audience to build a more purposeful visualization. 
 
 ![Original Chart Design](/Original_Design.png)
 
@@ -103,7 +103,7 @@ My redesign process occured in the following steps:
 
 **Step 1:**  
 
-While I liked the colour palette and clear labels of the original the graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Finally, I wanted to provide data labels next to each data point and to contextualize these labels by providing the national average for household food insecurity as a point of comparision. 
+While I liked the colour palette and clear labels of the original graph, I thought the original graph was too cluttered. Therefore, in my redesign I wanted to focus on just one of the categories instead of the original five. I selected household composition as a category of interest to build a narrative around how single parent households tend to be more food insecure than households with no children, or married couples with children. Finally, I wanted to provide data labels next to each data point, and to contextualize these labels by providing the national average for household food insecurity as a point of comparision. 
 
 **Step 2:**  
 
@@ -133,7 +133,7 @@ I used the feedback I recieved to start building a possible design solution. I u
 ## Part 3: The Final Visualization
 
 The redesigned version of this chart differs from the original along a few aspects. These are described below: 
-* It separates one category of the data, and builds a narrative around that, instead of clumping together multiple categories. While this prevents easy comparisons across categories, it helps keep this chart easy to parse, allowing viewers to glean key insights within the first few seconds of observations. 
+* It separates one category of the data, and builds a narrative around that, instead of clumping together multiple categories. While this prevents easy comparisons across categories, it helps keep this chart easy to parse, allowing viewers to glean key insights within the first few seconds of observation. 
 * It includes data labels, and orders data points, so it is immediately apparent which household types are most and least likely to be affected by food insecurity.
 * It includes a separated and highlighted data point for the national average as a point of comparision. Having the chart ordered also allows viewers to immediately see which household types have rates of insecurity that are higher than the national average. 
 * It includes an explanatory sub-heading to emphasize the key take-away of the chart, and provide more context to the data. 
@@ -142,7 +142,7 @@ Based on my own interaction with the original chart, and the feedback I recieved
 
 <iframe id="datawrapper-chart-rl5wP" src="//datawrapper.dwcdn.net/rl5wP/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="505"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
 
-In addition, while I did not solicit feedback for other categories of the original chart, I was able to use similar design principles to build charts for a few of the other categories. The only difference in these charts, is that I onlu add a gridline for the national average instead of also having it embedded within the data. 
+In addition, while I did not solicit feedback for other categories of the original chart, I was able to use similar design principles to build charts for a few of the other categories. The only difference in these charts, is that I only add a gridline for the national average instead of also having it embedded within the data. 
 
 <iframe id="datawrapper-chart-x4MVM" src="//datawrapper.dwcdn.net/x4MVM/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="262"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
 
