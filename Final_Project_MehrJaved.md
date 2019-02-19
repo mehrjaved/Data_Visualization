@@ -47,7 +47,7 @@ My visual essay will take the end reader through the story arc described below.
 
 ### User Protocol 
 
-For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at the following link: https://preview.shorthand.com/uaECjpGQpRYGMu71.  
+For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at the following [link](https://preview.shorthand.com/uaECjpGQpRYGMu71).  
 This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis.
 
 ### User Protocol 
@@ -55,7 +55,7 @@ This version is still in its early phases, and was only put together to start so
 **Target Audience:**  
 The target audience for my visual essay will be sexually active individuals in the United States, and health care policy professionals.  
   
-**Approach to Identifying Interviewees:**
+**Approach to Identifying Interviewees:**  
 Since the target audience is wide enough, I decided to interview my age mates and students in the health care management track at Carnegie Mellon University's Heinz College. 
 
 **Interview Script:**  
@@ -79,9 +79,9 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 
 * *Do you have any questions for me?*  
 
-Thank you so much for your time!"
+Thank you so much for your time!"  
 <font>  
-
+  
 **Feedback:** 
 
  
