@@ -47,7 +47,7 @@ My visual essay will take the end reader through the story arc described below.
 
 ### User Protocol 
 
-For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at the following [link](https://preview.shorthand.com/uaECjpGQpRYGMu71).  
+For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at this [link](https://preview.shorthand.com/uaECjpGQpRYGMu71).  
 This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis.
 
 ### User Protocol 
