@@ -37,8 +37,12 @@ Text accompanying these charts will be gathered from online news articles and th
 My visual essay will take the end reader through the story arc described below. 
 
 1. Describing the rising rates of STD prevalence in the United States by visualizing: 
-+ A national profile of STDS, charting trends in the prevalence of three dominant STDs; Chlaymidia, Gonorrhea, and Syphillis, from 1941 to present day.
-+ 
+  + A national profile of STDS, charting time series trends in the prevalence of three dominant STDs; Chlaymidia, Gonorrhea, and Syphillis, from 1941 to present day. (2 charts, one for cases and one for rate per 100,000 live births) 
+  + A breakdown of Chlaymidia, Gonorrhea, and Syphillis, including: Time Series Trends by Cencus Region, and a breakdown for males and females by age group for 2017. (2 charts per disease. Total = 6)
+2. Exploring potential reasons for this rise in STD prevalence
+3. Using visualizations to identify populations at risk 
+4. 
+
 
 For the purpose of this stage of the project, I began setting up a draft version of my final project, available for feedback at this link: 
 https://preview.shorthand.com/uaECjpGQpRYGMu71. This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more built. 
@@ -47,6 +51,7 @@ https://preview.shorthand.com/uaECjpGQpRYGMu71. This version is still in its ear
 
 In order to solicit feedback on my wireframes, I prepared the following script: 
 
+<font color="#157515">
 "Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I need to prepare a visual essay. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. Bear in mind that what I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you see the charts available at the link, please provide your thoughts on the following questions: 
 * *What you think this is?*
 * *Could you describe what this is telling you?*
@@ -54,8 +59,9 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 * *Is there anything you find surprising or confusing?*
 * *Who do you think is the intended audience for this?*
 * *Is there anything you would change or do differently?*
-* *Do you have any questions for me?*"
- 
+* *Do you have any questions for me?*
+Thank you so much for your time!"
+<font>
 
 
 
