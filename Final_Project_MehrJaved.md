@@ -63,7 +63,7 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 
 <font color="#157515">
   
-"Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I need to prepare a visual essay. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. Bear in mind that what I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you see the charts available at the link, please provide your thoughts on the following questions: 
+"Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I will be developing a visual essay that describes an issue through data-driven visualizations. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. What I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you've reviewed the charts, please provide your thoughts on the following questions: 
 
 * *What you think this is?*  
 
@@ -79,17 +79,31 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 
 * *Do you have any questions for me?*  
 
-Thank you so much for your time!"  </font>  
-  
+Thank you so much for your time!"  
+
+</font> 
+
+    
 **Feedback:**  
 I interviewed three individuals to collect their feedback. Key pieces of insight are included below: 
 
-> "This is telling me STDs in the United States have become more prevalent over time, with Chlamydia being the most widespread of the three that are being analysed."  
+> "This is telling me STDs in the United States have become more prevalent over time, with Chlamydia being the most widespread of the three that are being analysed." 
+
 > "The data shows that the majority of cases of Chlamydia have been reported by the 20-29 age bracket, for both sexes, and in the South of the United States."  
-> "I am surprised at how teens seem to have significantly lesser cases of STDs than 20 plus people, I would have imagined teenagers to be engaging in riskier sexual behaviour than 20 plus ‘adults'."    
+
+> "I am surprised at how teens seem to have significantly lesser cases of STDs than 20 plus people, I would have imagined teenagers to be engaging in riskier sexual behaviour than 20 plus adults."  
+
 > "I think the best audience for this would be young people from 20 to 30 who are most sexually active, and are likely to have multiple sexual partners."  
+
 > "A good target audience would be Doctors, health-focused interest groups, researchers."  
-> "It may help to have more axis grid lines on the  Y-axis for the chart showing Chlamydia cases by census region." 
+
+> "I’m surprised at how Chlamydia didn’t seem to have a presence in the United States until the mid 1980s."  
+
+> "It may help to have more axis grid lines on the Y-axis for the chart showing Chlamydia cases by census region." 
+
+**Incorporating Feedback**: 
+Based on this feedback, I will be be making sure to clarify that the chart for Chlamydia only begins in the mid 1980s due to unavailability of data for prior years. I will also add more gridlines Y-axis for the chart showing Chlamydia cases by census region. I will additionally develop the charts for Gonorrhea, and Syphillis keeping these guidelines in mind. 
+
 
  
 
