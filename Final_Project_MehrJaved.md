@@ -51,8 +51,6 @@ For the purpose of this stage of the project, I began setting up a draft version
 I chose to build my wireframes in Datawrapper because of the versatility it offers and because once the data was clean, it was very easy to put the charts together. 
 This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis.
 
-### User Protocol 
-
 **Target Audience:**  
 The target audience for my visual essay will be sexually active individuals in the United States, and health care policy professionals.  
   
