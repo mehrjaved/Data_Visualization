@@ -37,11 +37,11 @@ Text accompanying these charts will be gathered from online news articles and th
 My visual essay will take the end reader through the story arc described below. 
 
 1. Describing the rising rates of STD prevalence in the United States by visualizing: 
-  + A national profile of STDS, charting time series trends in the prevalence of three dominant STDs; Chlaymidia, Gonorrhea, and Syphillis, from 1941 to present day. (2 charts, one for cases and one for rate per 100,000 live births) 
+  + A national profile of STDs, charting time series trends in the prevalence of Chlaymidia, Gonorrhea, and Syphillis, from 1941 to 2017. (2 charts, one for cases and one for rate per 100,000 live births) 
   + A breakdown of Chlaymidia, Gonorrhea, and Syphillis, including: Time Series Trends by Cencus Region, and a breakdown for males and females by age group for 2017. (2 charts per disease. Total = 6)
 2. Exploring potential reasons for this rise in STD prevalence
 3. Using visualizations to identify populations at risk 
-4. Documenting to combat growth in STD prevalence and how alternative policies may be targetted at-risk populations.   
+4. Documenting existing mechanisms to combat growth in STD prevalence and how alternative policies may be targetted at-risk populations.   
 
 *Note that an original goal of the project was to also provide a breakdown of STDs by race and ethnicity, but due to difficulties in extracting the race/ethnicity data from the source report, those charts have not been included in the story board*  
 
@@ -49,7 +49,7 @@ My visual essay will take the end reader through the story arc described below.
 
 For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at this [link](https://preview.shorthand.com/uaECjpGQpRYGMu71).  
 I chose to build my wireframes in Datawrapper because of the versatility it offers and because once the data was clean, it was very easy to put the charts together. 
-This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis.
+This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis based on the feedback collected.
 
 **Target Audience:**  
 The target audience for my visual essay will be sexually active individuals in the United States, and health care policy professionals.  
@@ -58,9 +58,9 @@ The target audience for my visual essay will be sexually active individuals in t
 Since the target audience is wide enough, I decided to interview my age mates and students in the health care management track at Carnegie Mellon University's Heinz College. 
 
 **Interview Script:**  
-In order to solicit feedback on my wireframes, I prepared the following script: 
+To solicit feedback on my wireframes, I prepared the following script: 
 
-"Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I will be developing a visual essay that describes an issue through data-driven visualizations. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. What I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you've reviewed the charts, please provide your thoughts on the following questions: 
+"Hi, I'm a second year graduate student taking a "Telling Stories with Data" course this semester. For my final project, I will be developing a visual essay that describes a policy issue through data-driven visualizations. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. What I am about to share is only a rough story board presenting a quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you've reviewed the charts, please provide your thoughts on the following questions: 
 
 * *What you think this is?*  
 
@@ -68,7 +68,7 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 
 * *How long did it take you to arrive at an understanding of this chart?*  
 
-* *Is there anything you find surprising or confusing?*  
+* *Is there anything you find surprising and/or confusing?*  
 
 * *Who do you think is the intended audience for this?*  
 
@@ -96,7 +96,7 @@ I interviewed three individuals to collect their feedback. Key pieces of insight
 > "It may help to have more axis grid lines on the Y-axis for the chart showing Chlamydia cases by census region." 
 
 **Incorporating Feedback**:  
-Based on this feedback, I will make sure to clarify that the chart for Chlamydia only begins in the mid 1980s due to unavailability of data for prior years. I will also add more gridlines Y-axis for the chart showing Chlamydia cases by census region. I will additionally develop the charts for Gonorrhea, and Syphillis keeping these guidelines in mind. 
+Based on this feedback, I will make sure to clarify that the chart for Chlamydia only begins in the mid 1980s due to unavailability of data for prior years. I will also add more gridlines on the Y-axis for the chart showing Chlamydia cases by census region. I will additionally develop the charts for Gonorrhea, and Syphillis keeping these guidelines in mind. 
 
 
  
