@@ -82,7 +82,14 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 Thank you so much for your time!"  </font>  
   
 **Feedback:**  
+I interviewed three individuals to collect their feedback. Key pieces of insight are included below: 
 
+> "This is telling me STDs in the United States have become more prevalent over time, with Chlamydia being the most widespread of the three that are being analysed."  
+> "The data shows that the majority of cases of Chlamydia have been reported by the 20-29 age bracket, for both sexes, and in the South of the United States."  
+> "I am surprised at how teens seem to have significantly lesser cases of STDs than 20 plus people, I would have imagined teenagers to be engaging in riskier sexual behaviour than 20 plus ‘adults'."    
+> "I think the best audience for this would be young people from 20 to 30 who are most sexually active, and are likely to have multiple sexual partners."  
+> "A good target audience would be Doctors, health-focused interest groups, researchers."  
+> "It may help to have more axis grid lines on the  Y-axis for the chart showing Chlamydia cases by census region." 
 
  
 
