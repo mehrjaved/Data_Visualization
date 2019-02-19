@@ -41,14 +41,24 @@ My visual essay will take the end reader through the story arc described below.
   + A breakdown of Chlaymidia, Gonorrhea, and Syphillis, including: Time Series Trends by Cencus Region, and a breakdown for males and females by age group for 2017. (2 charts per disease. Total = 6)
 2. Exploring potential reasons for this rise in STD prevalence
 3. Using visualizations to identify populations at risk 
-4. 
+4. Documenting to combat growth in STD prevalence and how alternative policies may be targetted at-risk populations.   
 
-
-For the purpose of this stage of the project, I began setting up a draft version of my final project, available for feedback at this link: 
-https://preview.shorthand.com/uaECjpGQpRYGMu71. This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more built. 
+*Note that an original goal of the project was to also provide a breakdown of STDs by race and ethnicity, but due to difficulties in extracting the race/ethnicity data from the source report, those charts have not been included in the story board*  
 
 ### User Protocol 
 
+For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at the following link: https://preview.shorthand.com/uaECjpGQpRYGMu71.  
+This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis.
+
+### User Protocol 
+
+**Target Audience:**  
+The target audience for my visual essay will be sexually active individuals in the United States, and health care policy professionals.  
+  
+**Approach to Identifying Interviewees:**
+Since the target audience is wide enough, I decided to interview my age mates and students in the health care management track at Carnegie Mellon University's Heinz College. 
+
+**Interview Script:**  
 In order to solicit feedback on my wireframes, I prepared the following script: 
 
 <font color="#157515">
@@ -70,7 +80,11 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 * *Do you have any questions for me?*  
 
 Thank you so much for your time!"
-<font>
+<font>  
+
+**Feedback:** 
+
+ 
 
 
 
