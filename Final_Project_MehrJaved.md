@@ -52,14 +52,23 @@ https://preview.shorthand.com/uaECjpGQpRYGMu71. This version is still in its ear
 In order to solicit feedback on my wireframes, I prepared the following script: 
 
 <font color="#157515">
+  
 "Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I need to prepare a visual essay. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. Bear in mind that what I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you see the charts available at the link, please provide your thoughts on the following questions: 
-* *What you think this is?*
-* *Could you describe what this is telling you?*
-* *How long did it take you to arrive at an understanding of this chart?*
-* *Is there anything you find surprising or confusing?*
-* *Who do you think is the intended audience for this?*
-* *Is there anything you would change or do differently?*
-* *Do you have any questions for me?*
+
+* *What you think this is?*  
+
+* *Could you describe what this is telling you?*  
+
+* *How long did it take you to arrive at an understanding of this chart?*  
+
+* *Is there anything you find surprising or confusing?*  
+
+* *Who do you think is the intended audience for this?*  
+
+* *Is there anything you would change or do differently?*  
+
+* *Do you have any questions for me?*  
+
 Thank you so much for your time!"
 <font>
 
