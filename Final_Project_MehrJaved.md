@@ -61,8 +61,6 @@ Since the target audience is wide enough, I decided to interview my age mates an
 **Interview Script:**  
 In order to solicit feedback on my wireframes, I prepared the following script: 
 
-<font color="#157515">
-  
 "Hi, I'm taking a "Telling Stories with Data" course this semester. For my final project, I will be developing a visual essay that describes an issue through data-driven visualizations. As part of the process, I am preparing early versions of my final visualizations (wireframes) to solicit feedback and see how they can be improved. What I am about to share is only a rough story board presenting quick depiction of the data to see what can be improved about the charts. The final visualization will be created keeping your feedback in mind. Once you've reviewed the charts, please provide your thoughts on the following questions: 
 
 * *What you think this is?*  
@@ -81,9 +79,6 @@ In order to solicit feedback on my wireframes, I prepared the following script:
 
 Thank you so much for your time!"  
 
-</font> 
-
-    
 **Feedback:**  
 I interviewed three individuals to collect their feedback. Key pieces of insight are included below: 
 
@@ -101,8 +96,8 @@ I interviewed three individuals to collect their feedback. Key pieces of insight
 
 > "It may help to have more axis grid lines on the Y-axis for the chart showing Chlamydia cases by census region." 
 
-**Incorporating Feedback**: 
-Based on this feedback, I will be be making sure to clarify that the chart for Chlamydia only begins in the mid 1980s due to unavailability of data for prior years. I will also add more gridlines Y-axis for the chart showing Chlamydia cases by census region. I will additionally develop the charts for Gonorrhea, and Syphillis keeping these guidelines in mind. 
+**Incorporating Feedback**:  
+Based on this feedback, I will make sure to clarify that the chart for Chlamydia only begins in the mid 1980s due to unavailability of data for prior years. I will also add more gridlines Y-axis for the chart showing Chlamydia cases by census region. I will additionally develop the charts for Gonorrhea, and Syphillis keeping these guidelines in mind. 
 
 
  
