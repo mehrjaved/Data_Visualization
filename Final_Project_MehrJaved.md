@@ -49,7 +49,7 @@ My visual essay will take the end reader through the story arc described below.
 
 For the purpose of this stage of the project, I began setting up a draft version of the above story line in shorthand. This draft is available at this [link](https://preview.shorthand.com/RLx3VGG1LFUMD1fG).  
 I chose to build my wireframes in Datawrapper because of the versatility it offers and because once the data was clean, it was very easy to put the charts together. 
-This version is still in its early phases, and was only put together to start soliciting feedback on the the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis based on the feedback collected.
+This version is still in its early phases, and was only put together to start soliciting feedback on the first few visualizations before more are built. Therefore, it only includes visualizations for Chlamydia. Similar charts will be built for Gonorrhea and Syphillis based on the feedback collected.
 
 **Target Audience:**  
 The target audience for my visual essay will be sexually active individuals in the United States, and health care policy professionals.  
