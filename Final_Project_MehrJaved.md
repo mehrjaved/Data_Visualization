@@ -130,7 +130,7 @@ Two examples of personas that this piece could be targetted towards are shared b
 *Age*: 34  
 *Profession*: Uber Driver.  
 *Demographics*: Lives with his partner of three years. 
-*Goals and Tasks*: Complete at least 50 uber trips per week. Earn enough money to make rent. Socialize over the weekends. 
+*Goals and Tasks*: Complete at least 50 uber trips per week. Earn enough money to make rent. Socialize over the weekends.  
 *Environment*: Has consistent access to internet on a mobile or a laptop advice. Always learning new things from his riders. Gets his news from facebook, or the radio. 
 
 
