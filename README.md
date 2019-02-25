@@ -14,7 +14,7 @@ Accessible at this website: https://mehrjaved.github.io/mjaved_Data_Visualizatio
 
 [5. Assignment 3 and 4](#assignment-3-and-4)  
 
-[6. Final Project Part 1](#final-project-part-1)
+[6. Final Project](#final-project)
 
 # About Me
 
@@ -150,7 +150,9 @@ In addition, while I did not solicit feedback for other categories of the origin
 
 # Final Project
 
-[Please follow this link to see documentation for my final project.](Final_Project_MehrJaved.md)
+My final project is a visual essay titled "Rising STD Rates in America - An Emerging Healthcare Crisis". It is publicly accessible at this [link.](https://carnegiemellon.shorthandstories.com/RisingSTDRates/index.html)  
+
+Please click [here](Final_Project_MehrJaved.md) to see documentation on how this project was developed.
 
 
 
