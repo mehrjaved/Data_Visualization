@@ -107,6 +107,29 @@ This piece could have been developed for policy practictioners or sexually activ
 * Used clear and straightforward language to make the text easy to read. I also avoided terms that may be confusing to individuals less well-read on the subject 
 * Developed calls to action that were easy to follow and understand so audience members can be persuaded to do their part in controlling the spread of STDs in the United States. 
 
+Two examples of personas that this piece could be targetted towards are shared below:  
+
+#### Persona 1 
+
+*Name*: Jane Appleseed  
+*Gender*: Female
+*Age*: 22  
+*Profession*: Student at ABC University and part-time employee at Chipotle  
+*Demographics*: Single, Active on Tinder. Pursuing a degree in Sociology. Shares an apartment with two other girls.   
+*Goals and Tasks*: Complete college assignments. Earn enough money to make rent. Socialize over the weekends. 
+*Environment*: Has consistent access to internet on a mobile or a laptop advice. Gets most of her news and information from facebook and instagram. 
+
+#### Persona 2
+
+*Name*: John Grapefruit
+*Gender*: Male
+*Age*: 34  
+*Profession*: Uber Driver.  
+*Demographics*: Lives with his partner of three years. 
+*Goals and Tasks*: Complete at least 50 uber trips per week. Earn enough money to make rent. Socialize over the weekends. 
+*Environment*: Has consistent access to internet on a mobile or a laptop advice. Always learning new things from his riders. Gets his news from facebook, or the radio. 
+
+
 ### Methodology 
 
 My process in developing this essay is summarized below:
