@@ -111,7 +111,7 @@ Two examples of personas that this piece could be targetted towards are shared b
 
 #### Persona 1 
 
-![Jane Appleseed](/Persona_1.jpg)
+![Jane Appleseed](/Persona 1.jpg)
 
 *Name*: Jane Appleseed  
 *Gender*: Female
@@ -123,7 +123,7 @@ Two examples of personas that this piece could be targetted towards are shared b
 
 #### Persona 2
 
-![John Grapefruit](/Persona_2.jpg)
+![John Grapefruit](/Persona 2.jpg)
 
 *Name*: John Grapefruit
 *Gender*: Male
