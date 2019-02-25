@@ -102,8 +102,8 @@ Based on this feedback, I will make sure to clarify that the chart for Chlamydia
 
 ### The Intended Audience 
 
-This piece could have been developed for policy practictioners or sexually active adults in the United States. I decided to narrow my focus to the latter so that individuals at risk of contracting STDs can be appropriately informed and alerted. As a result, I did the following to make sure my visual essay can be as effective as possible: 
-* Kept my visualizations simple and easy to digest. Through my user protocol research, I ensured that audience members did not have to spend more than 2-3 minutes pursing all the charts to develop an understanding of the key takeaways
+This piece could have been developed for policy practictioners or sexually active adults in the United States. I decided to narrow my focus to the latter so that individuals at risk of contracting STDs can be appropriately informed and alerted. As a result, I did the following to make sure my visual essay is as effective as possible: 
+* Kept the visualizations simple and easy to digest. Through my user protocol research, I ensured that audience members did not have to spend more than 2-3 minutes perusing all the charts to develop an understanding of the key takeaways
 * Used clear and straightforward language to make the text easy to read. I also avoided terms that may be confusing to individuals less well-read on the subject 
 * Developed calls to action that were easy to follow and understand so audience members can be persuaded to do their part in controlling the spread of STDs in the United States. 
 
@@ -111,7 +111,7 @@ This piece could have been developed for policy practictioners or sexually activ
 
 My process in developing this essay is summarized below:
 1. I began by extracting the relevant tables from the CDC report using Tabula. The extracted tables were cleaned using R and Excel. While I had originally intended to analyse STD prevalence by race as well, I was unable to accomplish this due to difficulties with extracting the Race/Ethnicity tables from the data report. 
-2. I set up wireframes in Datawrapper and shared with a few members of the intended audience. Based on their feedback, I decided to truncate the charts depicting the time series trends to only show data from 1980 onwards. Since data on Chlamydia is only available 1980 onwards, this allows for easier comparisions between STDs. I also made sure the scales for the charts comparing STD prevalence between men and women by age were consistent. This ensured that audience members can compare prevalence not only between age groups but between sexes as well. 
+2. I set up wireframes in Datawrapper and shared with a few members of the intended audience. Based on their feedback, I decided to truncate the charts depicting the time series trends to only show data from 1980 onwards. Since data on Chlamydia is only available 1980 onwards, this allows for easier comparisions between STDs. I also made sure that to use consistent scales for the charts comparing STD prevalence between men and women by age. This ensured that audience members can compare prevalence not only between age groups but between sexes as well. 
 3. I researched supporting material to accompany the charts. Much of this material was extracted from the Source Report, but alternative sources were explored where necessary. The full list of references is included at the end of the published visual essay. 
 4. The final story was compiled in Shorthand using charts made with both Datawrapper and Infogram. Photographs used in the essay all come from Unsplash, and are credited within the story. 
 
