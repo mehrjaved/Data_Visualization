@@ -111,6 +111,8 @@ Two examples of personas that this piece could be targetted towards are shared b
 
 #### Persona 1 
 
+![Jane Appleseed](/Persona_1.jpg)
+
 *Name*: Jane Appleseed  
 *Gender*: Female
 *Age*: 22  
@@ -120,6 +122,8 @@ Two examples of personas that this piece could be targetted towards are shared b
 *Environment*: Has consistent access to internet on a mobile or a laptop advice. Gets most of her news and information from facebook and instagram. 
 
 #### Persona 2
+
+![John Grapefruit](/Persona_2.jpg)
 
 *Name*: John Grapefruit
 *Gender*: Male
